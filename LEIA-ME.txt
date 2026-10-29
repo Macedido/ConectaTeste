@@ -1,0 +1,13 @@
+CONECTA — SITE PRONTO PARA PUBLICAR
+
+Estes arquivos são o site inteiro já montado. Ele usa o MESMO Supabase de antes
+(mesmo projeto, mesma Edge Function, mesmas rotas). Não precisa mexer no Supabase.
+
+Como publicar no endereço atual (macedido.github.io/ConectaTeste):
+1. No GitHub, abra o repositório ConectaTeste e troque para a branch "gh-pages".
+2. Apague o index.html e a pasta "assets" antigos.
+3. Envie (Add file > Upload files) TODOS os arquivos desta pasta, mantendo a pasta "assets".
+4. Espere 1 ou 2 minutos e abra o site. Se aparecer a versão antiga, recarregue com Ctrl+F5.
+
+Os caminhos são relativos: o mesmo pacote funciona em qualquer pasta ou domínio.
+O LEIA-ME pode ficar ou ser apagado; ele não aparece no site.
