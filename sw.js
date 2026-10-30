@@ -1,6 +1,6 @@
 /* Conecta: funciona sem internet (abre a última versão) e mostra as
    notificações que chegam com o app fechado. */
-const VERSION = 'conecta-3'
+const VERSION = 'conecta-4'
 const SHELL = `${VERSION}-shell`
 const ASSETS = `${VERSION}-assets`
 const SHELL_FILES = ['./', './manifest.webmanifest', './icon-192.png', './favicon.svg']
